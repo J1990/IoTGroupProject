@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SmartHomeSystem</string>
+    <string name="tab_text_1">Dashboard</string>
+    <string name="tab_text_2">Manual Control</string>
+    <string name="tab_text_3">Out of Home</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

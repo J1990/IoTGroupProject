@@ -1,0 +1,2 @@
+5 0 * * * python3 weather_data_everyday.py
+* * * * * python3 weather.py
